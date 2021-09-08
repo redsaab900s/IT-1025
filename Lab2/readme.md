@@ -34,6 +34,9 @@ The purpose of IEEE is dedicated to advancing innovation and technilogical excel
 ## Data Representation
 
 ### Decimal, Binary and Hexadecimal
+Decimal, also known as the Base-10 system, likely the most commonly known number system. Used for counting by early humans. 
+Binary, also known as the Base-2 system, is the basis for all modern computing. It's the underlying mathematics and operations that computers perform.
+Hexadecimal, also known as the Base-16 system.
 
 ### Hexadecimal Color Representation
 
