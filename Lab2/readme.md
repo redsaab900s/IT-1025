@@ -1,7 +1,7 @@
 ## Christopher Beale / 9/7/2021
 
 ## Executive Summary 
-Include your executive summary here...
+In summary, the complex operations of both the hardware and software systems are needed in order to enable a computer to function as we intend for it to. Much like we catalogue our priorities in life that are unique to each individual, this is also necessary for computers. In order for information to be called upon, it most first have a system in which to store and identify its respective location. Furthermore, in order to process this information, it must have the corresponding hardware allowing it to compute and provide a visual result for the user. 
 
 ## Hardware
 ### Hard Drives and Memory
@@ -39,6 +39,7 @@ Binary, also known as the Base-2 system, is the basis for all modern computing. 
 Hexadecimal, also known as the Base-16 system.
 
 ### Hexadecimal Color Representation
+From what I am understanding, the Hexadecimal Color Represention is a catalogue of all possible variations of the colors we know and it utilizes the hexidecimal number system to categorize the data that each variation of color is represented by. 
 
 ## Conclusion
-Include your conclusion here...
+In order for our beloved machines to work, they must possess a thoroughly detailed set of instructions (software) in which to operate by. Conversely, there must also be the appropriate haredware/machinery to process and complete the instructions that govern the system so that it can function as desired. Much like our human brains, there is memory, an area that computing/rationaliztion takes place, and a desire output from all of that processing and computing.  
