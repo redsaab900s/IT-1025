@@ -22,7 +22,10 @@ Strings are a sequence of characters - the English language has 26 characters...
 ## Graphics
 
 ### Raster vs. Vector Graphics
+Raster is the type of image that loses quality when you zoom in or enlarge it, ultimately losing quality of the image. Probably best used for presentations and other applications where enlarging to see detail isn't as necessary. 
+Vector images are the opposite of raster and DO allow the ability to enlarge or reduce the image without compromising any quality. An example where this is best used is perhaps an online retailers product images. 
 ### Lossless vs. Lossy Compression
+
 ### File Formats
 ### File Properties
 
