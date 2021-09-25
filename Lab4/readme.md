@@ -1,7 +1,7 @@
 ## Christopher / 9/21/2021
 
 ## Executive Summary 
-Include your executive summary here...
+There are a number of different file formats and methods of compression associated with the varying qualities of files/images. A brief exploration of the topics in the articles that have been read will detail the benefits associated with their uses and how to best achieve the desired quality. 
 
 ## Python IDLE
 The difference between the shell and the file editor is that the shell is interactive and allows you to run the code to see the outcome immediately and the file editor is where you would establish and edit the code for any necessary bugs in order for smooth execution of the coded program. The shell will also contain the >>> in comparison to the file editor window. 
@@ -33,7 +33,6 @@ GIF - great for animations or line drawings with simple graphics / Not good for 
 JPEG - great for photos or screenshots, especially of movies, games, or similar content / Not good for detailed images or high contrast
 PNG - great for line art, illustrations, photos with high contrast, transparency, applications screenshots or detailed diagrams / Not good for low contrast 
 ### File Properties
-
+The file properties associated with my image are saved as an SVG and the file size is 153,576 bytes.
 ## Conclusion
-e in
-Include your professional conclusion here...
+Of the many types of file formats that can be used, each has a set of advantages and disadvantages depending on the applications needed for the project that the image will be used for. It is worth understanding the ways in which each of these files can and should be used for the best quality. 
