@@ -25,10 +25,15 @@ Strings are a sequence of characters - the English language has 26 characters...
 Raster is the type of image that loses quality when you zoom in or enlarge it, ultimately losing quality of the image. Probably best used for presentations and other applications where enlarging to see detail isn't as necessary. 
 Vector images are the opposite of raster and DO allow the ability to enlarge or reduce the image without compromising any quality. An example where this is best used is perhaps an online retailers product images. 
 ### Lossless vs. Lossy Compression
-
+Lossless image compression means that all of the data from the original file is preserved.
+Lossy removes some data from the original file and saves the image with a reduce file size. 
+These types of compressions matter to developers because the quality of their work and the images being used are of great importance. Each of the methods in which to save or compress these files have specific applications in order to best preserve their quality. 
 ### File Formats
+GIF - great for animations or line drawings with simple graphics / Not good for images with gradients or photos
+JPEG - great for photos or screenshots, especially of movies, games, or similar content / Not good for detailed images or high contrast
+PNG - great for line art, illustrations, photos with high contrast, transparency, applications screenshots or detailed diagrams / Not good for low contrast 
 ### File Properties
 
 ## Conclusion
-
+e in
 Include your professional conclusion here...
