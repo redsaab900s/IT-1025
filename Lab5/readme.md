@@ -1,10 +1,10 @@
-## Your Name / Date
+## Christopher Beale / 9/28/2021
 
 ## Executive Summary 
 Include your executive summary here...
 
 ## Lucidchart
-
+I have previously used Lucidchart and like it quite a bit. I had used it to create organizational and operational flowcharts for my last job. I find it rather easy to use and very powerful in how much extra that's imbedded in it. 
 ## Introduction to Networking
 
 ### Data Transmission
