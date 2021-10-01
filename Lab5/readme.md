@@ -21,11 +21,17 @@ Set of rules to allow devices to communicate. Either TCP/IP or FTP.
 
 ### Networking Hardware
 #### Switch vs. Hub
+The benefit of a switch over a hub is that a hub is not intelligent, unlike a switch, which can route data to specific ports. A hub just resends the data packet on all attached ports. Switches copy the addresses of the connected ports. It also reduces unnecessary traffic. 
 #### Router vs. Switch and Hub
+Hubs and switches are used to create networks while routers are used to connect networks. The router is able to read IP addresses, unlike hubs and switches. 
+
 ### Network Topologies
 #### Single point of Failure
+A single point of filure is when a central point in a network goes down, thus causing the whole network to go down. Common with star and ring topology networks.
 #### Infrastrucutre vs. Wireless Mesh
+The infrastructure newtork still consists of wired elements that allow for a bridge to the network via router. The Wireless mesh topology is able to wirelessly cover a broad area like an office by having many wireless access points. 
 ### Network Design
+I created a network diagram, but I don't believe there is any specific shape to the network topology other than a general sequence of operation in my mind. The modem acts as the gateway to the network that's distributed through the router. I have a PC directly connected to the router. The router is also connected to a wireless access point for the printer and laptop to utilize.
 ### NSA/CSS
 
 ## Cybersecurity and Encryption
