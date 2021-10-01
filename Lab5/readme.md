@@ -1,7 +1,7 @@
 ## Christopher Beale / 9/28/2021
 
 ## Executive Summary 
-Include your executive summary here...
+The world we live in, more than ever relies on the transmission of data. In doing so, we have exposed the many possibilities for this sensitive information to be extracted or taken and this has proven to be both helpful and detrimental. Cyberattacks to take people's identity, but also hacking to decode potential threats to the lives of millions. There are a number of methods in which to secure and encrypt this seemingly free flowing information. The importance of each and it's origin are just as important as how they are used or not used today.
 
 ## Lucidchart
 I have previously used Lucidchart and like it quite a bit. I had used it to create organizational and operational flowcharts for my last job. I find it rather easy to use and very powerful in how much extra that's imbedded in it. 
@@ -51,15 +51,20 @@ These two feactures of security act as rosters/lists to verify that the input of
 #### Ciphertext, Public Key and Private Key
 The sender of a message has both a public and private access key. In order to send the message, the sender must know the public key of the recipient. When sending the message is encrypted into ciphertext, and can only be decrypted and viewed by the recipient by inputing their private key. 
 #### Public Key Cryptography
+Public key encryption is important because it allows two people to effectively share public keys in order to encrypt private messages intended for one another but can only be decrypted by each users respective private key and not anyone else. 
 
 ### Cryptography
 #### Encryption
+The encryption is based on a shift of 21 to reveal the accurate letter to decrypt the message, where the letter u = 'a'
 #### Frequency Fingerprint
+In this interactive model, we are able to see the frequency in which a particular letter is used. This can be used to count a map of letters often used to begin sifting through a greatest common factor idea of the overall message. If you've ever done a cryptogram puzzles, this is a similar idea in decoding the message. Yes, the outcome would be different for other languages because there are different alphabet systems.   
 #### Polyalphabetic Cipher
+This method of cryptography involves using multiple shifts when decrypting the message being sent. This method involves using a code word that has a corresponding numerical letter placement along with a further shift. 
 #### Polyalphabetic Example
-
+Admittedly, I don't fully understand the math behind performing this level of encryption although my mind is really wanting to. Basically, the secret word/code is the integer shift in which to push the letter further away from itself to begin the initial encryption of the message. From there, a further shift is added. Conversely, the subtraction of these shifts will reveal the decrypted message. 
 #### Brute-Force
+While I do not fully comprehend the math and code used to run this operation, I do understand what is happening. An encrypted message is being run through a program that can reveal the contents of the secret message by argumentatve or boolean function. When a key is called upon to to verify if it matches any of the preloaded symbols within the reference code, it is then returned in some manner as true or false and with its corresponding match. Ultimately, this model runs through all possibilities of decoded in a relentless way, by generating every possible outcome with the given inputs. 
 
 ## Conclusion
-Include your professional conclusion here...
+The transmission of sensitive data is inevitable anymore. We rely on these principles to retain security in how we share information in our current world. The world of mathematics is one that we owe immense thanks to for understanding and creating the foundations of encryption. Like so many other things in our lives, mathematics can generally be found as the reasons/explanations for how things take place, how we can alter outcomes, and even predict results. It is crucial to understand!
 
