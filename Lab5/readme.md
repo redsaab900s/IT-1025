@@ -33,15 +33,23 @@ The infrastructure newtork still consists of wired elements that allow for a bri
 ### Network Design
 I created a network diagram, but I don't believe there is any specific shape to the network topology other than a general sequence of operation in my mind. The modem acts as the gateway to the network that's distributed through the router. I have a PC directly connected to the router. The router is also connected to a wireless access point for the printer and laptop to utilize.
 ### NSA/CSS
+The Agency collects, processes, and disseminates intelligence information from foreign electronic signals for national foreign intelligence and counterintelligence purposes and to support military operations. NSA/CSS is also tasked with preventing foreign adversaries from gaining access to classified national security information.
 
 ## Cybersecurity and Encryption
 
 ### Information Systems Security
 
 #### Security Triad
+In regards to the confidentiality aspect of the triad, I believe the impact on the approach of a feature like amazon.com online chat would pose some real issues of the typed exchange of personal infomation, especially when verifying identity. 
+The integrity of the exchange could also be subject to attack and/or the person on the other end of the chat could be involved with questionable integrity. 
+The availability of the data being exchanged and referenced to is also subject to more hesitation because this information is likely needed to always be available, unless the hours of the service are defined otherwise. 
 #### Authentication
+Three daily tasks that require authentication are unlocking a device, particularly a cellphone, using an ATM to withdraw cash, and accessing an app on a device.
+The unlocking of a cellular device in most cases I believe is already able to be convirted to multi-factor by having both a biometric and access key or pin. This very same thing could be done for both of the remaining examples by prompting the user to know a pin/key, or having a contributing item to supplement a biometric feature to verify the identity of the user. 
 #### ACL and RBAC
+These two feactures of security act as rosters/lists to verify that the input of identification information is synched to a verified user and allow access to all approved data. ACL is great for networks with fewer users, however not great with many and is also difficult to add/remove users from large allocations of info privileges. With RBAC, an added layer of security is implemented by way of assigning specific roles to users. What is accessible to each of those users is governed by the definitions of those roles. 
 #### Ciphertext, Public Key and Private Key
+The sender of a message has both a public and private access key. In order to send the message, the sender must know the public key of the recipient. When sending the message is encrypted into ciphertext, and can only be decrypted and viewed by the recipient by inputing their private key. 
 #### Public Key Cryptography
 
 ### Cryptography
