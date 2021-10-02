@@ -1,4 +1,4 @@
-## Your Name / Date
+## Christopher / 10/01/2021
 
 ## Executive Summary 
 Include your executive summary here...
@@ -6,6 +6,9 @@ Include your executive summary here...
 ## Internet Architecture
 ### Internet Protocol
 #### IP Address
+An IP Address is a unique identifying number that is necessary to every device that wishes to connect to the internet. 
+IPv4 is an older model of protocol that allows for roughtly 4.3 billion unique IP Addresses. It uses 4 sets of numbers between 0 and 255, separated by periods. 
+IPv6 is a new model of protocol that allows for exponentially (340 undecillion) more unique IP Addresses to be generated. It uses the hexadecimal 
 #### ICANN
 
 ### TCP/IP
