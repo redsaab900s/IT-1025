@@ -38,9 +38,10 @@ A major risk in failing to implement any of these measures could result in valua
 
 ## Internet Programming
 ### World Wide Web Consortium
+Tim Berners-Lee is the inventor of the World Wide Web. He created the W3C to help coordinate technology development and manage the operations of the Consortium.
+Browsers and authoring tools are important in the continual advancement of allowing for not only access, but also the ability to create and publish content that is universally visible to any device that aligns with the necessary protocols for connecting to the internet. 
 ### HTML5 and CSS
 ### HTML and XML
-
 ## Components of a URL
 
 ## Conclusion
