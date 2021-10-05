@@ -1,7 +1,7 @@
 ## Christopher / 10/01/2021
 
 ## Executive Summary 
-Include your executive summary here...
+When wanting to participate in the use of the internet, there are various protocols and languages one must be familiar with. From simply connecting to the internet in itself requires several protocols to be followed, before one can even begin exploring the many facets that could be utilized on the web. The internet has limitless possibilities and can connect nearly anyone to one another, allowing for endless collaborative capabilities.
 
 ## Internet Architecture
 ### Internet Protocol
@@ -41,8 +41,16 @@ A major risk in failing to implement any of these measures could result in valua
 Tim Berners-Lee is the inventor of the World Wide Web. He created the W3C to help coordinate technology development and manage the operations of the Consortium.
 Browsers and authoring tools are important in the continual advancement of allowing for not only access, but also the ability to create and publish content that is universally visible to any device that aligns with the necessary protocols for connecting to the internet. 
 ### HTML5 and CSS
+HTML 5 is a language designed and updated from the original HTML language to structure and present content on the web. I used both HTML5 and CSS to create a rather generic webpage about a topic of great interest to me with some minimal visual appeal. 
 ### HTML and XML
+HTML was designed to display the data in whatever desired visual appeal. XML was created to carry that data
 ## Components of a URL
-
+Scheme - https
+Domain - www.amazon.com
+Top-level Domain - .edu
+Default Page - result of search
+Parameters - no file path provided
+Anchor - specific location on a page
+Each piece of component listed above provides a precise direction of routing for the intended user. They all relate by working in unison to arrive at a specified place on the internet. 
 ## Conclusion
 Include your conclusion here...
