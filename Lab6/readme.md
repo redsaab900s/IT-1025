@@ -53,4 +53,4 @@ Parameters - no file path provided
 Anchor - specific location on a page
 Each piece of component listed above provides a precise direction of routing for the intended user. They all relate by working in unison to arrive at a specified place on the internet. 
 ## Conclusion
-Include your conclusion here...
+While I do not entirely grasp the languages and protocols associated with networks, accessing the internet, and sharing content via the web, the overall premise of the framework makes sense. There are a great deal of rules and governance that must be checked in order to proceed with participating in the use of the web. I look forward to understanding more about these areas of the computer world. 
