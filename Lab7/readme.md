@@ -11,12 +11,17 @@ My image prior to compression was approx. 153,000 kb and was approx. 86,000 once
 
 ## Object Oriented Programming (OOP) and the Shark Class
 ### Attributes:
+In this example of the shark, the attributes are the methods, swim and be awesome.
 ### Methods:
+The methods of the Shark class are 'swim' and 'be awesome'. 
 ### Constructor:
+A constructor is a special method of a class or structure in object-oriented programming that initializes a newly created object of that type. Whenever an object is created, the constructor is called automatically.
 ### Class vs. Object
+A class describes the contents of the objects that belong to it. It describes the variables of the object(s) and defines the operations or methods. Object is an element or instance of a class; objects have the behaviors of their class.
 
 ## Object Oriented Concepts
 ### Instantiated Objects
+To instantiate an object is to create an object.
 ### Inheritance
 ### Encapsulation and Abstraction
 
