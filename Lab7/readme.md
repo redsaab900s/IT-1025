@@ -22,8 +22,11 @@ A class describes the contents of the objects that belong to it. It describes th
 ## Object Oriented Concepts
 ### Instantiated Objects
 To instantiate an object is to create an object.
+The instantiated objects of the shark class are, Sammy, Stevie, & Christopher
 ### Inheritance
+Inheritance is essentially the creation of another class from an existing class. An example might be adding types of sharks to the shark class. 
 ### Encapsulation and Abstraction
+Encapsulation relates to the shark class because it has defined variables within its class that are specific to identifying a shark. Abstraction relates to the shark class because the majority of the functions associated with the program are left to be unseen by the user and only the main functions left visible. 
 
 ## Unified Modeling Language (UML)
 
