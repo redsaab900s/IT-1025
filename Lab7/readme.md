@@ -29,6 +29,9 @@ Inheritance is essentially the creation of another class from an existing class.
 Encapsulation relates to the shark class because it has defined variables within its class that are specific to identifying a shark. Abstraction relates to the shark class because the majority of the functions associated with the program are left to be unseen by the user and only the main functions left visible. 
 
 ## Unified Modeling Language (UML)
+Honestly, I'm not sure if I did this assignment correctly. My class diagram breaks down each object under the shark class by the names of the individual objects sammy, stevie, and christopher, which are all private (-). The operations, which are public (+), are defined by swims, be awesome, and learns.
+
+The other class diagram I did was more so following the order in which the program was coded. The objects in this case are private (-) and simply defined as name:self = shark. From there, the operations are public (+) and includes the corresponding string outputs.  
 
 ## Conclusion
 File compression, especially in regards to images has many benefits, one being the ability to send or share it without losing quality in some cases. Object Oriented Programming is very helpful in creating computer versions of real life objects. The process for creating a simplistic and direct pathway for objects to be called upon seems complex, but is rather rudimentary and makes a lot of sense. 
