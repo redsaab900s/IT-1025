@@ -1,7 +1,7 @@
 ## Christopher Beale / 10/12/2021
 
 ## Executive Summary 
-Include your executive summary here...
+In this module we have learned again, a bit more about OOP (object oriented programming) in addition to file compression and some of its purposes. Much like we do in science and breaking down the classes of animals, we too, do this in OOP. It helps to assign a pathway to direct or call upon the object. 
 
 ## File Compression
 ### Purpose of File Compression
@@ -31,4 +31,4 @@ Encapsulation relates to the shark class because it has defined variables within
 ## Unified Modeling Language (UML)
 
 ## Conclusion
-Include your conclusion here...
+File compression, especially in regards to images has many benefits, one being the ability to send or share it without losing quality in some cases. Object Oriented Programming is very helpful in creating computer versions of real life objects. The process for creating a simplistic and direct pathway for objects to be called upon seems complex, but is rather rudimentary and makes a lot of sense. 
