@@ -36,6 +36,8 @@ SQL stands for search query language and is one of the standard languages used i
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
+Similar to my selection of CSV File Injections from the National Vulnerability Database; an SQL injection is a code insertion that can corrupt and/or leach confidential data from a database. It is one of the most common web hacking techniques.
+To prevent some of these instances, SQL parameters can be inserted. SQL parameters are values that are added to an SQL query at execution time, in a controlled manner.
 
 ## Ethical and Legal Implications
 ### Code of Ethics
