@@ -1,7 +1,7 @@
 ## Christopher  / 10/21/2021
 
 ## Executive Summary 
-Include your executive summary here...
+In this chapter we learned about relational database management systems and briefly about the SQL that enables us to access and manipulate that data in more direct ways. Additionally, we run through the rules and structures of these two complimentary technologies. We learn about big data, how it is classified and the many ways it is currently in use within our daily lives. Furthermore, we go into detail about the protection and privacy laws regarding the public access and transmission of this data and the many formats that this data can exist as on the internet. 
 
 ## Data, Information and Knowledge
 ### Compare and contrast data, information and knowledge
@@ -41,8 +41,14 @@ To prevent some of these instances, SQL parameters can be inserted. SQL paramete
 
 ## Ethical and Legal Implications
 ### Code of Ethics
+The purpose of a code of ethics is to outline a set of acceptable behaviors for a professional or social group; generally, it is agreed to by all members of the group. The document details different actions that are considered appropriate and inappropriate. When approaching new areas of computing, it is necessary to have guidelines to adhere to so that social equity is maintained and respected both presently and moving forward.
 ### Intellectual Property
+If the svg file I made by some miraculous chance was used to represent goods or services, the trademark could protect that image from being replicated or used in some variation elsewhere by either common-law trademark or registered trademark. So long as the owner of the svg file is active in defending the intellectual property, there is no expiration from the protection that is granted from the trademark.
+It might be best to seek out copyright as an added layer of protection in the event that another use of the intellectual property appears elsewhere. This will allow the option to take legal action against the lack of permissable use of the copyright material.
 ### Information Collection
+COPPA, which is enforced by the Federal Trade Commission (FTC), forces websites to comply. Organizations must make a good-faith effort to determine the age of those accessing their websites and, if users are under thirteen years old, must obtain parental consent before collecting any information.
+FERPA is a US law that protects the privacy of student education records. In brief, this law specifies that parents have a right to their child’s educational information until the child reaches either the age of eighteen or begins attending school beyond the high school level.
+HIPPA is the law the specifically singles out records related to health care as a special class of personally identifiable information. This law gives patients specific rights to control their medical records, requires health care providers and others who maintain this information to get specific permission in order to share it, and imposes penalties on the institutions that breach this trust.
 
 ## Conclusion
-Include your conclusion here...
+I really liked this chapter and dealing with SQL. I enjoy Python also, but found the power of SQL to be a bit overlooked previously. Like any language, there are rules to adhere to in order to use it. Just like any tangible asset or innovation, there are ways in which to protect these intellectual properties. Exploring and understanding each of these is crucial in knowing how to protect your intellectual properties from infringements that can surely exist. So too, is the same for data that exists on the web and knowing the ways in which hackers can target your prized credentials to hijack assets and much more. 
