@@ -31,6 +31,8 @@ Types of technology that are driving the need for big data are social media, man
 
 ## Structured Query Language (SQL) 
 ### RDBMS and SQL
+RDBMS stands for relational database management system and is the interface for users when utilizing SQL
+SQL stands for search query language and is one of the standard languages used in accessing and manipulating data
 ### Relationship, Primary and Foreign Keys
 
 ## SQL Injections
